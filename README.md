@@ -43,10 +43,6 @@ colorPickerViewController.DoneButton.Clicked += (object sender, EventArgs e) => 
 ```
 Please check out the sample project about how to use it.
 
-### Compatibility
-
-This component is built with Xamarin.iOS Unified API
-
 ### License
 
 PopColorPicker is licensed under the terms of the MIT license.
